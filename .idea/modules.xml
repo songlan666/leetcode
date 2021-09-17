@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/00-ListShow/00-ListShow.iml" filepath="$PROJECT_DIR$/00-ListShow/00-ListShow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/00-TenSort/00-TenSort.iml" filepath="$PROJECT_DIR$/00-TenSort/00-TenSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-PrintList/06-PrintList.iml" filepath="$PROJECT_DIR$/06-PrintList/06-PrintList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-BinaryTreeNode/07-BinaryTreeNode.iml" filepath="$PROJECT_DIR$/07-BinaryTreeNode/07-BinaryTreeNode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-QueueWithTwoStacks/09-QueueWithTwoStacks.iml" filepath="$PROJECT_DIR$/09-QueueWithTwoStacks/09-QueueWithTwoStacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-Fibonacci/10-Fibonacci.iml" filepath="$PROJECT_DIR$/10-Fibonacci/10-Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-min/11-min.iml" filepath="$PROJECT_DIR$/11-min/11-min.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-hasPath/12-hasPath.iml" filepath="$PROJECT_DIR$/12-hasPath/12-hasPath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-movingcount/13-movingcount.iml" filepath="$PROJECT_DIR$/13-movingcount/13-movingcount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15-hammingWeight/15-hammingWeight.iml" filepath="$PROJECT_DIR$/15-hammingWeight/15-hammingWeight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16-myPower/16-myPower.iml" filepath="$PROJECT_DIR$/16-myPower/16-myPower.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17-printNUmbers/17-printNUmbers.iml" filepath="$PROJECT_DIR$/17-printNUmbers/17-printNUmbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18-DeleteNode/18-DeleteNode.iml" filepath="$PROJECT_DIR$/18-DeleteNode/18-DeleteNode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18-DeleteNodeRepeat/18-DeleteNodeRepeat.iml" filepath="$PROJECT_DIR$/18-DeleteNodeRepeat/18-DeleteNodeRepeat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22-FindKthToTail/22-FindKthToTail.iml" filepath="$PROJECT_DIR$/22-FindKthToTail/22-FindKthToTail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24-ReverseList/24-ReverseList.iml" filepath="$PROJECT_DIR$/24-ReverseList/24-ReverseList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25-Merge/25-Merge.iml" filepath="$PROJECT_DIR$/25-Merge/25-Merge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26-HasSubTree/26-HasSubTree.iml" filepath="$PROJECT_DIR$/26-HasSubTree/26-HasSubTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/32-PrintFromTopToBottom/32-Print.iml" filepath="$PROJECT_DIR$/32-PrintFromTopToBottom/32-Print.iml" />
+      <module fileurl="file://$PROJECT_DIR$/32-PrintFromTopToBottom/32-PrintFromTopToBottom.iml" filepath="$PROJECT_DIR$/32-PrintFromTopToBottom/32-PrintFromTopToBottom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/32-PrintNode/32-PrintNode.iml" filepath="$PROJECT_DIR$/32-PrintNode/32-PrintNode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/33-VerifySquenceOfBST/33-VerifySquenceOfBST.iml" filepath="$PROJECT_DIR$/33-VerifySquenceOfBST/33-VerifySquenceOfBST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34-FindPath/34-FindPath.iml" filepath="$PROJECT_DIR$/34-FindPath/34-FindPath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/35-Clone/35-Clone.iml" filepath="$PROJECT_DIR$/35-Clone/35-Clone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/55-TreeDepth/35-PrintFromTopToBottom.iml" filepath="$PROJECT_DIR$/55-TreeDepth/35-PrintFromTopToBottom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/39-Permytation/39-Permytation.iml" filepath="$PROJECT_DIR$/39-Permytation/39-Permytation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/40-GetLeastNumbers/40-GetLeastNumbers.iml" filepath="$PROJECT_DIR$/40-GetLeastNumbers/40-GetLeastNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/42-MaxSubArray/42-MaxSubArray.iml" filepath="$PROJECT_DIR$/42-MaxSubArray/42-MaxSubArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/45-MinNumber/45-MinNumber.iml" filepath="$PROJECT_DIR$/45-MinNumber/45-MinNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/46-TranslateNum/46-TranslateNum.iml" filepath="$PROJECT_DIR$/46-TranslateNum/46-TranslateNum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/35-Clone/47-getMaxValue.iml" filepath="$PROJECT_DIR$/35-Clone/47-getMaxValue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/47-getMaxValuesolution/47-getMaxValuesolution.iml" filepath="$PROJECT_DIR$/47-getMaxValuesolution/47-getMaxValuesolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/50-FirstNotRepeatingChar/50-FirstNotRepeatingChar.iml" filepath="$PROJECT_DIR$/50-FirstNotRepeatingChar/50-FirstNotRepeatingChar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/52-FindFirstCommonNode/52-FindFirstCommonNode.iml" filepath="$PROJECT_DIR$/52-FindFirstCommonNode/52-FindFirstCommonNode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/53-GetNumberK-II/53-GetNumberK-II.iml" filepath="$PROJECT_DIR$/53-GetNumberK-II/53-GetNumberK-II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/53-GetNumberOfK/53-GetNumberOfK.iml" filepath="$PROJECT_DIR$/53-GetNumberOfK/53-GetNumberOfK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/54-KthNode/54-KthNode.iml" filepath="$PROJECT_DIR$/54-KthNode/54-KthNode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/55-TreeDepth/55-TreeDepth.iml" filepath="$PROJECT_DIR$/55-TreeDepth/55-TreeDepth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/56-SingleNumbers-I/56-SingleNumbers-I.iml" filepath="$PROJECT_DIR$/56-SingleNumbers-I/56-SingleNumbers-I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/56-singleNumbers/56-singleNumbers-I.iml" filepath="$PROJECT_DIR$/56-singleNumbers/56-singleNumbers-I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/57-TwoSum/57-TwoSum.iml" filepath="$PROJECT_DIR$/57-TwoSum/57-TwoSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/57-TwoSum-I/57-TwoSum-I.iml" filepath="$PROJECT_DIR$/57-TwoSum-I/57-TwoSum-I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/58-reverse/58-reverse.iml" filepath="$PROJECT_DIR$/58-reverse/58-reverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/59-MaxSlidingWindow/59-MaxSlidingWindow.iml" filepath="$PROJECT_DIR$/59-MaxSlidingWindow/59-MaxSlidingWindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/62-lastRemaining/62-lastRemaining.iml" filepath="$PROJECT_DIR$/62-lastRemaining/62-lastRemaining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/63-MaxProfit/63-MaxProfit.iml" filepath="$PROJECT_DIR$/63-MaxProfit/63-MaxProfit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/67-StrToInt/67-StrToInt.iml" filepath="$PROJECT_DIR$/67-StrToInt/67-StrToInt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode.iml" filepath="$PROJECT_DIR$/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/untitled1/untitled1.iml" />
+    </modules>
+  </component>
+</project>
