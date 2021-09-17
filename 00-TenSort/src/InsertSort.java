@@ -3,15 +3,15 @@ public class InsertSort {
     public static void main(String[] args) {
         int[] arr = {5, 3, 8, 6, 2, 15, 9, 4};
         // 3 5  6 8
-        int[] temp = insertSort(arr);
-        for (int i : temp) {
+        insertSort(arr);
+        for (int i : arr) {
             System.out.println(i);
         }
     }
 
-    public static int[] insertSort(int[] arr) {
+    public static void insertSort(int[] arr) {
 
-        if (arr.length < 1 || arr == null) return new int[]{};
+        if (arr.length < 1 || arr == null) return ;
 
         for (int i = 1; i < arr.length; i++) {
             int j = i;
@@ -35,8 +35,6 @@ public class InsertSort {
             arr[j] = target;
 
         }
-
-        return arr;
     }
 
 }
